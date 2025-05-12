@@ -1,0 +1,5 @@
+=== PORÓWNANIE HASHY ===
+Oryginał  (rabbit.bmp): f270a8d83d0168c8131677c5d1b3ce9ab35ec253db05d38edbda474e7540d152
+Zmodyfik. (rabbitpixel.bmp): d5e656e3fe99cb34e9c4a51242d0846199cc2d99385f165571582905e40b8b29
+-------------------------
+Takie same? NIE
